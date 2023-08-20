@@ -4,6 +4,7 @@
 
 - e-mail: ruskate007@gmail.com 
 - github: (https://github.com/catherinepeace)
+- Discord: @catherinepeace
 
 ## Summary
 
@@ -18,15 +19,39 @@ I believe that my hardworking skills and great desire to dive deeper into the ne
 - Project Management
 - Git and GitHub
 - Python (Basics)
-- HTML (Basics)
-- CSS (Basics)
-
+- HTML5 (Basics)
+- CSS3 (Basics)
+- VS Code
 
 ## Code examples
 
+```
+a, b, c = int(input()), int(input()), input()
+if c == '+':
+    print(a + b)
+elif c == '-':
+    print(a - b)
+elif c == '*':
+    print(a * b)
+elif c == '/' and b == 0:
+    print('На ноль делить нельзя!')
+elif c == '/':
+    print(a / b)
+else:
+    print('Неверная операция')
+```
 
 ## Experience
 
+- RS School study project CV#1. Markdown & Git (chttps://github.com/catherinepeace/rsschool-cv/blob/gh-pages/cv.md)
+
 ## Education
 
+- Saint Petersburg State University. Medical doctor degree (completed in 2017)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- Course on Stepik: "Поколение Python": курс для начинающих" (in progress)
+- Course on Stepik: "Веб-разработка для начинающих: HTML и CSS" (in progress)
+
 ## Languages
+
+- English (Upper-intermediate)

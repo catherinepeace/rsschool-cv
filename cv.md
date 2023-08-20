@@ -3,7 +3,7 @@
 ## Contacts
 
 - e-mail: ruskate007@gmail.com 
-- github: [https://github.com/catherinepeace](GitHub link)
+- github: (https://github.com/catherinepeace)
 
 ## Summary
 
